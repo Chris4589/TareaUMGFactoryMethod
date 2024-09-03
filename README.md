@@ -1,4 +1,5 @@
 Diagrama de clases
+
 ![image](https://github.com/user-attachments/assets/3392e461-2bd7-4cc1-bb07-44f305ccb490)
 
 
